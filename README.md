@@ -3,7 +3,7 @@ Three Processing projects using the Minim audio library.
 
 Setup
 -
-You can run all three of these sketchs in the Processing IDE. Just set the input you want to analyze as the default in your operating system and run the sketch. If you are using Mac, you can use a program called Soundflower to reroute your audio into an audio input to directly analyze your music. You can move the mouse up and down to change variables. (and left and right in Beat_Detect)
+These sketches require the Minim library, which you can download from [here](http://code.compartmental.net/tools/minim/). Place the Minim-2.2.0 folder in ~/Documents/Processing/libraries/ (for Mac). You can run all three of these sketchs in the Processing IDE. Just set the input you want to analyze as the default in your operating system and run the sketch. If you are using Mac, you can use a program called Soundflower to reroute your audio into an audio input to directly analyze your music. You can move the mouse up and down to change variables. (and left and right in Beat_Detect)
 
 Desketchion
 -
